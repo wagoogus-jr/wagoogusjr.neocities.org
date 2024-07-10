@@ -8,6 +8,8 @@
     font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 
     text-align: center;
+
+    padding:2em;
   }
 
   footer {
@@ -22,4 +24,12 @@
     text-align: left;
   }
 
-  
+/*
+stuff to think about later:
+https://neonaut.neocities.org/about/ - copy off of their homework?
+background-image:
+background-color:
+padding:
+margin-(left/right):
+
+*/
